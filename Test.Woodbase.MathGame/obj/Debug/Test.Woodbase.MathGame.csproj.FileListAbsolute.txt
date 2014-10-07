@@ -1,0 +1,7 @@
+C:\Users\MSN\Documents\Visual Studio 2013\Projects\WoodbaseMathGame\WoodbaseMathGame\Test.Woodbase.MathGame\bin\Debug\Test.Woodbase.MathGame.dll
+C:\Users\MSN\Documents\Visual Studio 2013\Projects\WoodbaseMathGame\WoodbaseMathGame\Test.Woodbase.MathGame\bin\Debug\Test.Woodbase.MathGame.pdb
+C:\Users\MSN\Documents\Visual Studio 2013\Projects\WoodbaseMathGame\WoodbaseMathGame\Test.Woodbase.MathGame\obj\Debug\Test.Woodbase.MathGame.csprojResolveAssemblyReference.cache
+C:\Users\MSN\Documents\Visual Studio 2013\Projects\WoodbaseMathGame\WoodbaseMathGame\Test.Woodbase.MathGame\obj\Debug\Test.Woodbase.MathGame.dll
+C:\Users\MSN\Documents\Visual Studio 2013\Projects\WoodbaseMathGame\WoodbaseMathGame\Test.Woodbase.MathGame\obj\Debug\Test.Woodbase.MathGame.pdb
+C:\Users\MSN\Documents\Visual Studio 2013\Projects\WoodbaseMathGame\WoodbaseMathGame\Test.Woodbase.MathGame\bin\Debug\Woodbase.MatchGame.Core.dll
+C:\Users\MSN\Documents\Visual Studio 2013\Projects\WoodbaseMathGame\WoodbaseMathGame\Test.Woodbase.MathGame\bin\Debug\Woodbase.MatchGame.Core.pdb
