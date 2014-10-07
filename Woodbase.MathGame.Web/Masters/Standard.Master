@@ -4,18 +4,19 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <link rel="stylesheet" href="/CSS/Default.min.css" type="text/css"/>
+    <link rel="stylesheet" href="/CSS/Default.min.css" type="text/css" />
     <title></title>
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>
 <body>
     <form id="form1" runat="server">
-    <div>
-        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
-        
-        </asp:ContentPlaceHolder>
-    </div>
+        <h1>Woodbase Math Game</h1>
+        <div>Här kommer en liten text, som du kan läsa om du vill</div>
+        <div id="default-wrapper">
+            <asp:ContentPlaceHolder ID="cphGameArea" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
     </form>
 </body>
 </html>

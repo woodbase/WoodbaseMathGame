@@ -1,6 +1,8 @@
-﻿#cookieWarn {
-  z-index: 1000;
+﻿body {
   background-color: #FFDEAD;
+}
+#cookieWarn {
+  z-index: 1000;
   height: 40px;
   display: none;
   position: absolute;

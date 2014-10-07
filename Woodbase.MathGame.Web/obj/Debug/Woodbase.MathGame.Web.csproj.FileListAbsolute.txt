@@ -10,3 +10,5 @@ C:\Users\MSN\Documents\Visual Studio 2013\Projects\WoodbaseMathGame\WoodbaseMath
 C:\Users\MSN\Documents\Visual Studio 2013\Projects\WoodbaseMathGame\WoodbaseMathGame\Woodbase.MathGame.Web\obj\Debug\Woodbase.MathGame.Web.csprojResolveAssemblyReference.cache
 C:\Users\MSN\Documents\Visual Studio 2013\Projects\WoodbaseMathGame\WoodbaseMathGame\Woodbase.MathGame.Web\obj\Debug\Woodbase.MathGame.Web.dll
 C:\Users\MSN\Documents\Visual Studio 2013\Projects\WoodbaseMathGame\WoodbaseMathGame\Woodbase.MathGame.Web\obj\Debug\Woodbase.MathGame.Web.pdb
+C:\Users\MSN\Documents\Visual Studio 2013\Projects\WoodbaseMathGame\WoodbaseMathGame\Woodbase.MathGame.Web\bin\Woodbase.MatchGame.Core.dll
+C:\Users\MSN\Documents\Visual Studio 2013\Projects\WoodbaseMathGame\WoodbaseMathGame\Woodbase.MathGame.Web\bin\Woodbase.MatchGame.Core.pdb
