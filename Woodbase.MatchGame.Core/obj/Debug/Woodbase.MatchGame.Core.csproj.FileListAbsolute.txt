@@ -1,0 +1,5 @@
+C:\Users\MSN\documents\visual studio 2013\Projects\WoodbaseMathGame\Woodbase.MatchGame.Core\bin\Debug\Woodbase.MatchGame.Core.dll
+C:\Users\MSN\documents\visual studio 2013\Projects\WoodbaseMathGame\Woodbase.MatchGame.Core\bin\Debug\Woodbase.MatchGame.Core.pdb
+C:\Users\MSN\documents\visual studio 2013\Projects\WoodbaseMathGame\Woodbase.MatchGame.Core\obj\Debug\Woodbase.MatchGame.Core.csprojResolveAssemblyReference.cache
+C:\Users\MSN\documents\visual studio 2013\Projects\WoodbaseMathGame\Woodbase.MatchGame.Core\obj\Debug\Woodbase.MatchGame.Core.dll
+C:\Users\MSN\documents\visual studio 2013\Projects\WoodbaseMathGame\Woodbase.MatchGame.Core\obj\Debug\Woodbase.MatchGame.Core.pdb
