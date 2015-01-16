@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Woodbase.MatchGame.Core", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Woodbase.MathGame.Web", "Woodbase.MathGame.Web\Woodbase.MathGame.Web.csproj", "{79C9B7D9-CFB0-4AEB-A32A-49D3A536F77C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Woodbase.MathGame", "Test.Woodbase.MathGame\Test.Woodbase.MathGame.csproj", "{0518A269-E069-4CE9-AD91-9CD854210E10}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{79C9B7D9-CFB0-4AEB-A32A-49D3A536F77C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79C9B7D9-CFB0-4AEB-A32A-49D3A536F77C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79C9B7D9-CFB0-4AEB-A32A-49D3A536F77C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0518A269-E069-4CE9-AD91-9CD854210E10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0518A269-E069-4CE9-AD91-9CD854210E10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0518A269-E069-4CE9-AD91-9CD854210E10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0518A269-E069-4CE9-AD91-9CD854210E10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
