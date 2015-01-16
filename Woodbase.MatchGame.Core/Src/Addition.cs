@@ -18,11 +18,11 @@ namespace Woodbase.MatchGame.Core.Src
             Result = new Result() { Value = A + B, Correct = true };
         }
 
-        public IEnumerable<IResult> GetSuggestions(int seed)
+        public IEnumerable<IResult> GetSuggestions(int seed, int rangeMax)
         {
             var rnd = new Random();
             var intResult = Convert.ToInt32(Result.Value);
-            var intArray = Enumerable.Range(0, Convert.ToInt32(intResult*rnd.Next())).Where(y=>y!=intResult).Distinct().Take(seed-1).ToArray();
+            var intArray = Enumerable.Range(0, rangeMax).OrderBy(x => rnd.Next()).Where(y => y != intResult).Distinct().Take(seed - 1).ToArray();
 
             var res = intArray.Select(x => new Result() {Value = x, Correct = false}).ToList<IResult>();
             res.Add(Result);

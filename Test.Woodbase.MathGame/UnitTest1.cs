@@ -12,7 +12,7 @@ namespace Test.Woodbase.MathGame
         public void AdditionSuggestion()
         {
             var addtion = new Addition(2,3);
-            var results = addtion.GetSuggestions(5).ToList();
+            var results = addtion.GetSuggestions(5, 20).ToList();
 
             Assert.AreEqual(4, results.Where(x => x.Correct==false).ToList().Count());
             Assert.AreEqual(1, results.Where(x=>x.Correct).ToList().Count());

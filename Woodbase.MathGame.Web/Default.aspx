@@ -4,4 +4,5 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="cphGameArea" runat="server">
     <asp:Literal runat="server" ID="litQuestion" />
     <asp:Panel runat="server" ID="pnlSuggestions"></asp:Panel>
+    <asp:Label runat="server" ID="lblResultMessage"></asp:Label>
 </asp:Content>
